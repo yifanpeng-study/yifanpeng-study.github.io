@@ -23,3 +23,22 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Make nav links bold */
+.navbar-nav .nav-item .nav-link {
+  font-weight: 500;  /* Make the nav link text bold */
+}
+
+/* Exclude 'ctrl k' and other elements from being bold */
+.navbar-nav .nav-item button .nav-link {
+  font-weight: normal; /* Keep 'ctrl k' and other button texts normal */
+}
+
+.sb-li {
+  margin: 3px 0; /* Consistent spacing between all items */
+}
+
+a {
+  margin: 0; /* Removes extra margin around the "Email" link */
+  padding: 0; /* Removes extra padding around the "Email" link */
+}
