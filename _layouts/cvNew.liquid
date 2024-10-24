@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title" style="display: flex; align-items: center;">
+      CV
+      {% if page.cv_pdf %}
+        <a
+          href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="margin-left: 10px;"  <!-- Adjust margin to control spacing -->
+          <i class="fa-solid fa-file-pdf"></i
+        ></a>
+      {% endif %}
+    </h1>
+  </header>
+  
+  <article>
+    <p>Change 3. This is a description of the page. You can modify it in '_pages/cv.md'.</p>
+    <p>Click <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here</a> for my CV.</p>
+  </article>
+</div>
