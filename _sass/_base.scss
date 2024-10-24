@@ -1116,6 +1116,8 @@ nav[data-toggle="toc"] {
   width: 100%;
 }
 
+
+
 swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
@@ -1308,3 +1310,8 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.navname {
+  color: var(--global-text-color-navname);
+}
+
