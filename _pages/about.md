@@ -2,7 +2,7 @@
 layout: aboutNew2
 title: About
 permalink: /
-subtitle: <a href='(https://ace.illinois.edu/)'>ACE Department Homepage</a> 1301 W Gregory Dr, Urbana, IL 61801
+subtitle: <a href="https://ace.illinois.edu/">ACE Department Homepage</a> 1301 W Gregory Dr, Urbana, IL 61801
 
 profile:
   align: right
