@@ -2,7 +2,7 @@
 layout: aboutNew2
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ace.illinois.edu/'>Affiliations</a>. 1301 W Gregory Dr, Urbana, IL 61801
 
 profile:
   align: right
@@ -19,8 +19,8 @@ profile:
 education:
   - degree: "PhD in Agricultural and Applied Economics"
     institution: "University of Illinois Urbana-Champaign"
-    start_date: "September 2020"
-    end_date: "Expected June 2025"
+    start_date: "August 2019"
+    end_date: "Expected May 2025"
     description: "Primary Fields: Food Policy, Environmental Economics; Secondary Fields: Data Science, Applied Microeconometrics"
   - degree: "Master of Science in Economics"
     institution: "University of Wisconsin–Madison"
@@ -40,3 +40,6 @@ social: true # includes social icons at the bottom of the page
 I am an applied economist with research interests that intersect with food policy and environmental economics.
 
 
+
+
+[def]: #
