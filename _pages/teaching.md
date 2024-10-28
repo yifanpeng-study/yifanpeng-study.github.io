@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-Teaching Assistant (TA)	
-•	TA for Natural Resource Economics (ACE/NRES/ENVS 310) 	
-•	TA for Personal Financial Planning (ACE 240)	
-•	TA for Risk Management in Personal Financial Planning (ACE 398)	
+<p>Teaching Assistant (TA):</p>
+<p>•	TA for Natural Resource Economics (ACE/NRES/ENVS 310) 	</p>
+<p>•	TA for Personal Financial Planning (ACE 240)	</p>
+<p>•	TA for Risk Management in Personal Financial Planning (ACE 398)	</p>
 
