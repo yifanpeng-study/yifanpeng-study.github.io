@@ -44,18 +44,23 @@ layout: default
     {% if page.education %}
       <section id="education">
         <h2>Education</h2>
+        <br>
         <div class="education-list">
           {% for item in page.education %}
             <div class="education-item">
-              <h3>{{ item.degree }}</h3>
-              <p>
-                <strong>{{ item.institution }}</strong><br>
-                {{ item.start_date }} – {{ item.end_date }}
+              <h5 style="margin-bottom: 1px;">{{ item.institution }}</h5> <!-- Reduced margin-bottom here -->
+              <p style="font-size: 1.1em; margin-bottom: 1px;">
+                <strong>{{ item.degree }}</strong>
               </p>
-              <p>{{ item.description }}</p>
+              <p style="margin-top: 0px;">
+                {{ item.start_date }} – {{ item.end_date }}<br>
+                {% if item.description1 %}{{ item.description1 }}<br>{% endif %}
+                {% if item.description2 %}{{ item.description2 }}<br>{% endif %}
+              </p>
             </div>
           {% endfor %}
         </div>
+        <br><br>
       </section>
     {% endif %}
 
