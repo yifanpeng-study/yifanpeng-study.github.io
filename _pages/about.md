@@ -2,7 +2,7 @@
 layout: aboutNew2
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 1301 W Gregory Dr, Urbana, IL 61801
+subtitle: <a href='#'>ACE Department Homepage</a>. 1301 W Gregory Dr, Urbana, IL 61801
 
 profile:
   align: right
@@ -39,7 +39,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am an applied economist with research interests that intersect with food policy and environmental economics.
 
-Abstract of Job Market Paper "Food Bank Responses to Major Disasters": The food distributed by food banks in the U.S. is a critical component in efforts to reduce food insecurity. For households, this food is especially needed in response to shocks that impair a household’s ability to purchase enough food. One increasingly common shock is natural disasters. Research has not yet quantified how food banks respond to these disasters. This paper fills that knowledge gap by estimating the response of food-bank food distribution to major disasters and exploring how that response varies with demographic features of the people a food bank serves. We use a proprietary quarterly dataset from Feeding America to detail food distribution and data from FEMA and NOAA’s storm events database to create severity proxies for major disasters. These data allow us to estimate fixed effects models with interaction effects. We find food banks’ food supply increases with disaster severity, with flooding having the strongest impact. These impacts were confined to the affected food banks and did not spillover to neighboring food banks. We find that aid increases even more in areas with a higher proportion of disadvantaged populations. 
+Abstract of Job Market Paper "Food Bank Responses to Major Disasters":<br> The food distributed by food banks in the U.S. is a critical component in efforts to reduce food insecurity. For households, this food is especially needed in response to shocks that impair a household’s ability to purchase enough food. One increasingly common shock is natural disasters. Research has not yet quantified how food banks respond to these disasters. This paper fills that knowledge gap by estimating the response of food-bank food distribution to major disasters and exploring how that response varies with demographic features of the people a food bank serves. We use a proprietary quarterly dataset from Feeding America to detail food distribution and data from FEMA and NOAA’s storm events database to create severity proxies for major disasters. These data allow us to estimate fixed effects models with interaction effects. We find food banks’ food supply increases with disaster severity, with flooding having the strongest impact. These impacts were confined to the affected food banks and did not spillover to neighboring food banks. We find that aid increases even more in areas with a higher proportion of disadvantaged populations. 
 
 
 
