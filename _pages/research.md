@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 <p><h5 style="margin-bottom: 12px;"> OUTREACH PUBLICATIONS </h5></p>
+•	Coppess, J. and Y. Peng. "Taking A Closer Look at the Conservation Tradeoff Issues." farmdoc daily (14):203, Department of Agricultural and Consumer Economics, University of Illinois at Urbana-Champaign, November 7, 2024. <a href="https://farmdocdaily.illinois.edu/2024/11/taking-a-closer-look-at-the-conservation-tradeoff-issues.html">https://farmdocdaily.illinois.edu/2024/11/taking-a-closer-look-at-the-conservation-tradeoff-issues.html</a>
+
 •	Coppess, J. and Y. Peng. “Conservation Tradeoff: EQIP in the Inflation Reduction Act and the House Farm Bill.” farmdoc daily (14):185. 2024. <a href="https://farmdocdaily.illinois.edu/2024/10/conservation-tradeoff-eqip-in-the-inflation-reduction-act-and-the-house-farm-bill.html">https://farmdocdaily.illinois.edu/2024/10/conservation-tradeoff-eqip-in-the-inflation-reduction-act-and-the-house-farm-bill.html</a>
 <br><br>
 <p><h5 style="margin-bottom: 12px;"> WORKING PAPERS </h5></p>
