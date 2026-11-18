@@ -2,7 +2,7 @@
 layout: aboutNew2
 title: About
 permalink: /
-subtitle: <a href="https://econ.sophia.ac.jp/">上智大学 経済学部 経済学科</a> · 〒102-8554 東京都千代田区紀尾井町7-1 / <a href="https://econ.sophia.ac.jp/en/">Department of Economics, Sophia University</a>
+subtitle: <a href="https://dept.sophia.ac.jp/econ/">上智大学 経済学部 経済学科</a> · 〒102-8554 東京都千代田区紀尾井町7-1 / <a href="https://dept.sophia.ac.jp/econ/en/">Department of Economics, Sophia University</a>
 
 profile:
   align: right
